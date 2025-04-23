@@ -1,0 +1,29 @@
+uuid: 2c6e940c-651a-405c-b48f-9798dcc5cdce
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.paragraph.field_h1_title
+    - paragraphs.paragraphs_type.hero
+  module:
+    - heading
+id: paragraph.hero.field_h1_title
+field_name: field_h1_title
+entity_type: paragraph
+bundle: hero
+label: 'H1 Title'
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  label: Heading
+  allowed_sizes:
+    h1: h1
+    h2: '0'
+    h3: '0'
+    h4: '0'
+    h5: '0'
+    h6: '0'
+field_type: heading
