@@ -1,0 +1,9 @@
+name: mercury
+recipe: drupal11
+config:
+  webroot: docroot
+services:
+  appserver:
+    overrides:
+      environment:
+        DRUSH_OPTIONS_URI: "http://mercury.lndo.site"
