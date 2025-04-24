@@ -17,10 +17,13 @@
     "require": {
         "composer/installers": "^2.3",
         "drupal/admin_toolbar": "^3.5",
+        "drupal/belgrade": "^2.1",
         "drupal/commerce": "^3.0",
         "drupal/core-composer-scaffold": "^11.1",
         "drupal/core-project-message": "^11.1",
         "drupal/core-recommended": "^11.1",
+        "drupal/gin": "^4.0",
+        "drupal/gin_toolbar": "^2.0",
         "drupal/heading": "^2.0",
         "drupal/mercury_editor": "^2.2",
         "drupal/mercury_editor_live_edit": "^1.0@dev",

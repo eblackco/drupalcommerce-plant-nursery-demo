@@ -1,0 +1,5 @@
+name: 'Custom CSS and JS'
+type: module
+description: 'Custom CSS and JavaScript'
+package: Custom
+core_version_requirement: ^10 || ^11

@@ -1,0 +1,30 @@
+.toolbar-menu-administration > .toolbar-menu >.menu-item {
+    &.hover-intent {
+        > .toolbar-menu {
+            z-index: 500;
+        }
+    }
+}
+
+html.gin--dark-mode {
+    .commerce-dashboard--inbox {
+        .inbox-message--wrapper {
+            background: transparent;
+    
+            .inbox-message {
+                &:hover {
+                    background: rgba(white, 0.1);
+                }
+            }
+        }
+
+        .inbox-footer--wrapper {
+            background: transparent;
+        }
+    }
+
+    .commerce-dashboard--management-links .management-link a {
+        background: transparent;
+        color: var(--gin-color-primary-rgb);
+    }
+}
