@@ -1,0 +1,2 @@
+default_service_id: local_stock
+stock_events_plugin_id: core_stock_events

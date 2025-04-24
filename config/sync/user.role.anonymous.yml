@@ -10,6 +10,7 @@ dependencies:
     - commerce_product
     - contact
     - filter
+    - media
     - search
     - system
 _core:
@@ -26,3 +27,4 @@ permissions:
   - 'search content'
   - 'use text format restricted_html'
   - 'view commerce_product'
+  - 'view media'

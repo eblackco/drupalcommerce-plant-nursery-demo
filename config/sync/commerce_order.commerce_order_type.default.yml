@@ -4,8 +4,10 @@ status: true
 dependencies: {  }
 _core:
   default_config_hash: kYapI397yx2zFJGyDEs85Hyqgfc9jhmzxqPZMl2Fqhk
-label: Default
 id: default
+label: Default
+traits: {  }
+locked: false
 workflow: order_default
 numberPattern: order_default
 refresh_mode: customer
@@ -13,5 +15,3 @@ refresh_frequency: 300
 sendReceipt: true
 receiptBcc: ''
 receiptSubject: ''
-traits: {  }
-locked: false

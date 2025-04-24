@@ -1,0 +1,7 @@
+uuid: fa37a97d-8a11-4d77-8d99-54e70f7c93ee
+langcode: en
+status: true
+dependencies: {  }
+id: propagation_method
+label: 'Propagation method'
+elementType: commerce_product_rendered_attribute

@@ -115,4 +115,8 @@ oauth_keys/
 # env-file
 /.env*
 
+# Build dependencies
 /themesrc/node_modules
+
+# Database exports
+*.sql.gz

@@ -1,0 +1,13 @@
+uuid: 5471d461-0439-47fb-b5e9-83875fd8da79
+langcode: en
+status: true
+dependencies: {  }
+id: nepenthes
+label: Nepenthes
+traits: {  }
+locked: false
+description: ''
+variationTypes:
+  - nepenthes
+multipleVariations: true
+injectVariationFields: true

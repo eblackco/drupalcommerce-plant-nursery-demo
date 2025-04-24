@@ -1,0 +1,24 @@
+uuid: cb505756-7de7-45c9-8ebf-95bac354b3a2
+langcode: en
+status: true
+dependencies:
+  config:
+    - commerce_product.commerce_product_type.nepenthes
+    - field.storage.commerce_product.body
+  module:
+    - text
+id: commerce_product.nepenthes.body
+field_name: body
+entity_type: commerce_product
+bundle: nepenthes
+label: Body
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: null
+settings:
+  display_summary: false
+  required_summary: false
+  allowed_formats: {  }
+field_type: text_with_summary

@@ -1,0 +1,10 @@
+uuid: d2a05429-65a5-4ba2-8c8c-f4a9c9269243
+langcode: en
+status: true
+dependencies: {  }
+id: nepenthes
+label: Nepenthes
+traits: {  }
+locked: false
+orderItemType: default
+generateTitle: true

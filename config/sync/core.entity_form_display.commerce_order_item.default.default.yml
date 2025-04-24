@@ -19,28 +19,28 @@ content:
   purchased_entity:
     type: entity_reference_autocomplete
     weight: 0
+    region: content
     settings:
       match_operator: CONTAINS
       match_limit: 10
       size: 60
       placeholder: ''
     third_party_settings: {  }
-    region: content
   quantity:
     type: commerce_quantity
     weight: 1
+    region: content
     settings:
       placeholder: ''
       step: '1'
     third_party_settings: {  }
-    region: content
   unit_price:
     type: commerce_unit_price
     weight: 2
+    region: content
     settings:
       require_confirmation: true
     third_party_settings: {  }
-    region: content
 hidden:
   adjustments: true
   created: true

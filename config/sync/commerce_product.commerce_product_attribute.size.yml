@@ -1,0 +1,7 @@
+uuid: be2a2a32-a609-418a-a7ea-2e1d6526ef3e
+langcode: en
+status: true
+dependencies: {  }
+id: size
+label: Size
+elementType: commerce_product_rendered_attribute
