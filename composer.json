@@ -25,8 +25,6 @@
         "drupal/gin": "^4.0",
         "drupal/gin_toolbar": "^2.0",
         "drupal/heading": "^2.0",
-        "drupal/mercury_editor": "^2.2",
-        "drupal/mercury_editor_live_edit": "^1.0@dev",
         "drush/drush": "^13.5"
     },
     "conflict": {

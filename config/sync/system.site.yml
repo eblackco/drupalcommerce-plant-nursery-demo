@@ -2,13 +2,13 @@ _core:
   default_config_hash: ijfbzDTN4CbE7Sr-6ubWzy_t1vH4OtU1doNCLssVz-4
 langcode: en
 uuid: 01bc6cc8-f03d-4477-af09-9d17f399554f
-name: 'Drush Site-Install'
-mail: admin@example.com
+name: 'Moxie Plants'
+mail: eblackco@gmail.com
 slogan: ''
 page:
   403: ''
   404: ''
-  front: /node/1
+  front: /node/2
 admin_compact_mode: false
 weight_select_max: 100
 default_langcode: en
